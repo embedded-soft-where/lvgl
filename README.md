@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=embedded-soft-where_lvgl&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=embedded-soft-where_lvgl)
 
 <a href="https://github.com/sponsors/lvgl" target="_blank"><img align="left" src="https://lvgl.io/github-assets/sponsor.png" height="32px"></a>
 
